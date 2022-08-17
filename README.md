@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaiwalya U Dudhgaonkar </h1> <br>
 <p align="right">----Just a techie</p>
 <h3 align="center"> I am a Python Developer , a Cyber Security Enthusiast, Pre-final Year student at Indian Institute of Information Technology, Dharwad. I also love to study about machine learning.</h3>
-<p align="left"> <img width="100%" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-yS3PIE_eSsj-_518a5fBXU9P1Ox56OHesw&usqp=CAU" alt="technolgy" /> </p>
+<p align="left"> <img width="100%" height="300" src="https://unsplash.com/s/photos/cybersecurity" alt="technolgy" /> </p>
 
 - 🔭 I’m currently working on API based projects.
 
