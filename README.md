@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kaiwalya U Dudhgaonkar </h1> <br>
 <p align="right">----Just a techie</p>
-<h3 align="center"> I am a Python Developer , a Cyber Security Enthusiast, Pre-final Year student at Indian Institute of Information Technology, Dharwad. I also love to study about machine learning.</h3>
+<h3 align="center"> I am a  a Cyber Security Enthusiast, Pre-final Year student at Indian Institute of Information Technology, Dharwad. I also love to study about machine learning.</h3>
 <p align="left"> <img width="100%" height="300" src="https://media.istockphoto.com/photos/digital-padlock-icon-cyber-security-network-and-data-protection-on-picture-id1334595508?b=1&k=20&m=1334595508&s=170667a&w=0&h=nd3aaquCWdZSUrO4_xy_YMDtHnjelxv131yOrSSHebw=" alt="technolgy" /> </p>
 
-- 🔭 I’m currently working on API based projects.
+- 🔭 I’m currently working on Cryptography based projects.
 
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning DSA.
 
 - 👯 I love to work on making and contributing in projects.
 
