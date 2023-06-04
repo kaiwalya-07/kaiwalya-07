@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaiwalya U Dudhgaonkar </h1> <br>
 <p align="right">----Just a Tech </p>
 <h3 align="center"> I am Pre-final Year student at Indian Institute of Information Technology, Dharwad.I enjoy Coding . I also love to study and work with Blockchain technology.</h3>
-<p align="left"> <img width="800" height="700" src="https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif" alt="technolgy" /> </p>
+<p align="left"> <img width="1000" height="500" src="https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif" alt="technolgy" /> </p>
 
 - 🔭 I’m currently working on building Web Applications .
 
