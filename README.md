@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaiwalya U Dudhgaonkar </h1> <br>
 <p align="right">----Just a Tech </p>
 <h3 align="center"> I am Pre-final Year student at Indian Institute of Information Technology, Dharwad.I enjoy Coding . I also love to study and work with Blockchain technology.</h3>
-<p align="left"> <img width="100%" height="300" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fcutewallpaper.org%2F22%2Flofi-boy-wallpapers%2Fview-page-22.html&psig=AOvVaw2a3Tv3HwSconRMCQkBKVMr&ust=1685980339225000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLD_4rL8qf8CFQAAAAAdAAAAABBI  alt="technolgy" /> </p>
+<p align="left"> <img width="100%" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dlofi&psig=AOvVaw0hXk9ZuonKtscAqogOKK9X&ust=1685980668075000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDOzsn9qf8CFQAAAAAdAAAAABAD" alt="technolgy" /> </p>
 
 - 🔭 I’m currently working on building Web Applications .
 
